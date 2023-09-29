@@ -19,4 +19,4 @@ int main()
     of the oragramming code
 **/
 
-/// Metehsn GENCER
+/// Metehan GENCER
